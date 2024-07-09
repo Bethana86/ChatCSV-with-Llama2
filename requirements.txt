@@ -1,5 +1,5 @@
 streamlit
-streamlitchat
+streamlit_chat
 pypdf
 langchain
 torch
