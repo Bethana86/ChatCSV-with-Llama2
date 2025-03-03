@@ -2,4 +2,4 @@ langchain
 ctransformers
 sentence-transformers
 faiss-cpu
--U langchain-community
+langchain-community
