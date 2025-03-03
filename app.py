@@ -33,7 +33,7 @@ docsearch.save_local(DB_FAISS_PATH)
 
 #print("Result", docs)
 
-llm = CTransformers(model="models/llama-2-7b-chat.ggmlv3.q4_0.bin",
+llm = CTransformers(model="deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
                     model_type="llama",
                     max_new_tokens=512,
                     temperature=0.1)
